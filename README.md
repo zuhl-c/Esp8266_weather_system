@@ -1,6 +1,6 @@
 # Esp8266_weather_system
-This is esp8266 microcontroller and Adafruit SSD1306 128x64 oled based weather station
-It will display the current weather conditions from visualcrossing.com through API
+This is ESP8266 microcontroller and Adafruit SSD1306 128x64 oled based weather station
+It will display the current weather conditions from visualcrossing API through internet.
 
 ## It displays
 1.current temperature
@@ -17,7 +17,7 @@ It will display the current weather conditions from visualcrossing.com through A
 11.uv index
 12.moonphase 
 
-## used components
+## Used components
 1.ESP8266 node mcu v3.0
 2.Adafruit SSD1306 128x64 oled
 3.10k ohm resistor
